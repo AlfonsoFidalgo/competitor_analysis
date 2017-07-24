@@ -1,0 +1,17 @@
+{
+  "name": "competitor-analysis",
+  "version": "1.0.0",
+  "description": "a search results scrapper to monitor competitor ads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Fidalgo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsdom": "^11.1.0",
+    "request": "^2.81.0"
+  }
+}
